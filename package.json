@@ -1,0 +1,13 @@
+{
+  "name": "forio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mdluo/forio.git",
+  "author": "mdluo <mdluo@ijugo.net>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "jsdom": "^11.3.0",
+    "qs": "^6.5.1"
+  }
+}
